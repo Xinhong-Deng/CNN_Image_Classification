@@ -1,5 +1,3 @@
-# comp551_a3
-
 - contributor
     - chaoyi liu
     - xinhong deng
